@@ -79,18 +79,18 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/trakem2/TrakEM2</connection>
-		<developerConnection>scm:git:git@github.com:trakem2/TrakEM2</developerConnection>
+		<connection>scm:git:git://github.com/trakem2/trakem2-transform</connection>
+		<developerConnection>scm:git:git@github.com:trakem2/trakem2-transform</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/trakem2/TrakEM2</url>
+		<url>https://github.com/trakem2/trakem2-transform</url>
 	</scm>
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/trakem2/TrakEM2/issues</url>
+		<url>https://github.com/trakem2/trakem2-transform/issues</url>
 	</issueManagement>
 	<ciManagement>
 		<system>Travis CI</system>
-		<url>https://travis-ci.org/trakem2/TrakEM2</url>
+		<url>https://travis-ci.org/trakem2/trakem2-transform</url>
 	</ciManagement>
 
 	<properties>
