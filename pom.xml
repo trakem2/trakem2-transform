@@ -33,7 +33,7 @@
 		<developer>
 			<id>acardona</id>
 			<name>Albert Cardona</name>
-			<url>http://imagej.net/User:Albertcardona</url>
+			<url>https://imagej.net/User:Albertcardona</url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -43,7 +43,7 @@
 		<developer>
 			<id>axtimwalde</id>
 			<name>Stephan Saalfeld</name>
-			<url>http://imagej.net/User:Saalfeld</url>
+			<url>https://imagej.net/User:Saalfeld</url>
 			<roles>
 				<role>lead</role>
 				<role>reviewer</role>
@@ -53,7 +53,7 @@
 		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
-			<url>http://imagej.net/User:Rueden</url>
+			<url>https://imagej.net/User:Rueden</url>
 			<roles>
 				<role>maintainer</role>
 			</roles>
@@ -65,7 +65,7 @@
 		</contributor>
 		<contributor>
 			<name>Verena Kaynig</name>
-			<url>http://imagej.net/User:Verena</url>
+			<url>https://imagej.net/User:Verena</url>
 			<properties><id>vkaynig</id></properties>
 		</contributor>
 	</contributors>
