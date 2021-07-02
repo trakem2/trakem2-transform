@@ -1,2 +1,2 @@
-[![](https://travis-ci.org/trakem2/trakem2-transform.svg?branch=master)](https://travis-ci.org/trakem2/trakem2-transform)
+[![](https://github.com/trakem2/trakem2-transform/actions/workflows/build-main.yml/badge.svg)](https://github.com/trakem2/trakem2-transform/actions/workflows/build-main.yml)
 
